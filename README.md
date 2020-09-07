@@ -8,7 +8,7 @@ Starbucks is a world-wide known coffeehouse. It has many promotion events and ev
 
 # Libraries used
 
-Pandas
+Pandas 
 Numpy
 Matplotlib.pyplot
 Sklearn
