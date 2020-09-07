@@ -41,4 +41,12 @@ value - (dict of strings) - either an offer id or transaction amount depending o
 
 # Summary
 
+We have more male members. However, members of different gender have similar response rate, which are about 0.61. Even though, male have lowest complete rate, which is only 0.106, female 0.137, and others 0.128.
+
+People complete more discount offers than bogo offers. However, we cannot conclud that people less respond to Bogo as we don't have the offer type for those offers in transaction status. It might be possible that people do respond to Bogo but are unable to complete it in time.
+
+Interestingly, more than 50% offer 5 are not reviewed but given it is reviewed, more than 60% will it be completed. Offer 5 are distributed by web and email. It might be the reason that people don't open the offers. 
+
+Offer type doesn't change much throughout the different age. However, people in young age respond to the offer most actually, then older people. People in middle age respond less actively. One possible reason might be that people within age 35-55 are too busy to respond to the offers. For younger and older people, they might have time to respond to the offers. The other possible reason is that people in middle age are not sensitive to discount/promotion. People under 35 have more than 60% to the offers. People over 55 have second response rate and the people aged between 35-55 have the lowest response rate.
+
 
